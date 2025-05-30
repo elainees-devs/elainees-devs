@@ -21,7 +21,6 @@
 - **Database:** MongoDB  
 - **Tools:** Postman, Nodemon, react-dropzone, GitHub  
 - **Languages:** JavaScript  
-- **Other Skills:** Data Structures and Algorithms
 
 ---
 
