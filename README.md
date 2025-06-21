@@ -14,7 +14,6 @@
 
 - 🌱 Currently learning **Next.js**, **Python**, **Django** and **MySQL**
 - 🔭 Updating **EduSynx**, a school management system built with the MERN stack
-- 📚 Exploring **Python** and diving deeper into **Next.js**
 - 💡 Passionate about building efficient and scalable web applications
 
 ---
