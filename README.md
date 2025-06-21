@@ -1,8 +1,11 @@
-# 💫 About Me
+## 👋 About Me
+🌱 I’m a full-stack developer on a mission to simplify lives in education 🎓 and agriculture 🌾 through software.
 
-👋 Hello! I'm **Elaine Muhombe**  
-🎓 Aspiring Developer | MERN Stack Enthusiast  
+🛠️ I build platforms that make school and farm operations more intelligent 🤖 and accessible 🌍.
 
+💻 I work with JavaScript/TypeScript ⚡ and Python/Django 🐍 to deliver fast 🚀, scalable 📈 systems.
+
+💡 I value purpose-driven tech ❤️, clean data 🧹, collaboration 🤝, and local impact 🌍.
 ---
 
 ## 🚀 What I'm Working On
