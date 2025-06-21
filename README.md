@@ -1,4 +1,4 @@
-### 👋 About Me
+## 👋 About Me
 
 🌱 I’m a **full-stack developer** on a mission to simplify lives in **education** 🎓 and **agriculture** 🌾 through software.  
 
