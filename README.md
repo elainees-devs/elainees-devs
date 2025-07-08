@@ -30,8 +30,8 @@
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/elaine-muhombe/)
-- [Portfolio](https://www.elainees.dev/)
+- https://www.linkedin.com/in/elaine-muhombe/
+- https://github.com/elainees-devs 
 - 📧 [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=emuhombe@gmail.com)
 
 **Thanks for visiting! 😊 Let's build something amazing together.**
