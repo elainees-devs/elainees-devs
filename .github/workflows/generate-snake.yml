@@ -21,6 +21,11 @@ jobs:
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Pull latest changes
+        run: |
+          git config --global pull.rebase false
+          git pull origin main
+
 
       - name: Commit & Push
         uses: EndBug/add-and-commit@v9
