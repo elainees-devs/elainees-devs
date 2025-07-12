@@ -70,13 +70,17 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
+## 🐍 Contribution Snake
+---
+
+
+![snake animation](https://github.com/elainees-devs/elainees-devs/blob/output/github-contribution-grid-snake.svg)
+
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=elainees-devs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&v=2)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elainees-devs&theme=dark&hide_border=false&v=2)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elainees-devs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=2)
-
-![snake animation](https://github.com/elainees-devs/elainees-devs/blob/output/github-contribution-grid-snake.svg)
 
 
 
