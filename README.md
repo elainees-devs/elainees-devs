@@ -79,7 +79,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=elainees-devs&theme=darkhub)
 
 
-
+[![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=elainees-devs)](https://github.com/elainees-devs/github-readme-stats)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=elainees-devs&icon=0&color=0)](https://visitcount.itsvg.in)
