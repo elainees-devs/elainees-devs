@@ -1,0 +1,37 @@
+name: 📝 Update README with latest commits
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *'  # every hour
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout code
+        uses: actions/checkout@v4
+
+      - name: 🔧 Get latest commits
+        run: |
+          # Get the latest 20 commits in markdown list format
+          git log -n 20 --pretty=format:"- %s (%an, %ar)" > commits.md
+
+      - name: ✏️ Update README.md
+        run: |
+          # Escape slashes so sed doesn't break
+          commits=$(cat commits.md | sed 's/\//\\\//g')
+
+          # Use sed to replace content between the markers
+          sed -i '/<!-- COMMITS_LIST_START -->/,/<!-- COMMITS_LIST_END -->/{/<!-- COMMITS_LIST_START -->/{p; r commits.md
+            }; /<!-- COMMITS_LIST_END -->/p; d}' README.md
+
+      - name: ✅ Commit & push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: 'docs: update latest commits in README'
