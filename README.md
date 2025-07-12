@@ -77,6 +77,9 @@
 ![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=elainees-devs&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elainees-devs&layout=compact&theme=radical)
 ![trophy](https://github-profile-trophy.vercel.app/?username=elainees-devs&theme=darkhub)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elainees-devs&hide=css,html,shell&layout=compact)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=elainees-devs&icon=0&color=0)](https://visitcount.itsvg.in)
