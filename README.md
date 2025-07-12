@@ -75,7 +75,7 @@
 # 📊 GitHub Stats
 
 ![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=elainees-devs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elainees-devs&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ![trophy](https://github-profile-trophy.vercel.app/?username=elainees-devs&theme=darkhub)
 
 ---
