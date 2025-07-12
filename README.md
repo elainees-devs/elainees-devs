@@ -78,7 +78,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elainees-devs&layout=compact&theme=radical)
 ![trophy](https://github-profile-trophy.vercel.app/?username=elainees-devs&theme=darkhub)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elainees-devs&hide=css,html,shell&layout=compact)
+
 
 ---
 
