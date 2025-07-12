@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write  # Already correct
 
 jobs:
   generate:
@@ -26,8 +26,6 @@ jobs:
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Commit & Push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: EndBug/add-and-commit@v9
         with:
-          commit_message: "Generate contribution snake"
-          branch: main
-          file_pattern: output/*.svg
+          token: ${{ secrets.GH_TOKEN }}  
