@@ -74,11 +74,11 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=elainees-devs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&v=2)  
+![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=elainees-devs&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elainees-devs&theme=dark&hide_border=false&v=2)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elainees-devs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=2)
 
-![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=elainees-devs&show_icons=true&theme=radical)
+
 
 
 
