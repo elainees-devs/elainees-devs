@@ -76,7 +76,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elainees-devs&theme=dark&hide_border=false&v=2)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elainees-devs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=2)
 
-![snake gif](https://github.com/elainees-devs/elainees-devs/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/elainees-devs/elainees-devs/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=elainees-devs&theme=darkhub)
