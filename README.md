@@ -78,6 +78,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elainees-devs&layout=donut-vertical)](https://github.com/elainees-devs/github-readme-stats)
 ![trophy](https://github-profile-trophy.vercel.app/?username=elainees-devs&theme=darkhub)
 
+![GitHub Snake Light](https://raw.githubusercontent.com/elainees-devs/elainees-devsoutput/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 ---
