@@ -76,18 +76,16 @@
 
 ![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=elainees-devs&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elainees-devs&layout=donut-vertical)](https://github.com/elainees-devs/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=elainees-devs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=elainees-devs&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elainees-devs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![trophy](https://github-profile-trophy.vercel.app/?username=elainees-devs&theme=darkhub)
-
-![GitHub Snake Light](https://raw.githubusercontent.com/elainees-devs/elainees-devsoutput/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=elainees-devs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://github-readme-stats.vercel.app/api?username=elainees-devs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=elainees-devs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elainees-devs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
