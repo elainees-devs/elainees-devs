@@ -1,1 +1,1 @@
-- Remove snake stats (Elaine Muhombe, 7 seconds ago)
+- Update Github stats (Elaine Muhombe, 7 seconds ago)
