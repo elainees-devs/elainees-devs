@@ -1,20 +1,22 @@
 ## 👋 About Me
 
-🌱 I’m a **full-stack developer** on a mission to simplify lives in **education** 🎓 and **agriculture** 🌾 through software.  
+About Me
 
-🛠️ I build platforms that make **school** and **farm operations** more **intelligent** 🤖 and **accessible** 🌍.  
+I’m an aspiring MERN and TypeScript developer currently focused on building real-world projects to sharpen my skills.
+Right now, I’m developing Edusynx, a School SaaS platform aimed at simplifying school management.
 
-💻 I work with **JavaScript/TypeScript** ⚡ and **Python/Django** 🐍 to deliver **fast** 🚀, **scalable** 📈 systems.  
+I enjoy working on:
 
-💡 I value **purpose-driven tech** ❤️, **clean data** 🧹, **collaboration** 🤝, and **local impact** 🌍.
+Full-stack development (MERN + TypeScript)
 
----
+Scalable backend architecture
 
-## 🚀 What I'm Working On
+Clean, maintainable code
 
-- 🌱 Currently learning **Next.js**, **Python**, **Django** and **MySQL**
-- 🔭 Updating **EduSynx**, a school management system built with the MERN stack
-- 💡 Passionate about building efficient and scalable web applications
+UI/UX with modern tooling
+
+I’m constantly learning and looking for ways to improve my craft.
+
 
 ---
 
