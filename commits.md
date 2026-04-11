@@ -1,1 +1,1 @@
-- update my about me section (Elaine Muhombe, 6 seconds ago)
+- Revise 'About Me' section in README (Elaine Muhombe, 5 seconds ago)
