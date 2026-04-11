@@ -1,1 +1,1 @@
-- Revise tech stack details in README (Elaine Muhombe, 7 seconds ago)
+- Improve formatting of Tech Stack in README (Elaine Muhombe, 6 seconds ago)
