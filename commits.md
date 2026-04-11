@@ -1,1 +1,1 @@
-- Improve formatting of Tech Stack in README (Elaine Muhombe, 6 seconds ago)
+- Fix typo in PostgreSQL database name (Elaine Muhombe, 6 seconds ago)
