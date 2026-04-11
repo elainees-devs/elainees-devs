@@ -1,39 +1,40 @@
-## 👋 About Me
+# 👋 About Me
 
-I’m an aspiring MERN stack and TypeScript developer passionate about building scalable and practical web applications. I focus on learning by building real-world projects, and I’m currently working on an E-commerce marketplace and a social media platform to deepen my understanding of full-stack development, API design, and modern backend architecture.
+I’m an aspiring **MERN stack and TypeScript developer** passionate about building scalable and practical web applications. I focus on learning by building real-world projects, and I’m currently working on an **E-commerce marketplace** and a **social media platform** to deepen my understanding of full-stack development, API design, and modern backend architecture.
 
-I enjoy working on:
+🛒 **E-commerce Marketplace:** https://github.com/elainees-devs/CodeAlpha_MarketHub.git  
+🌐 **Social Media Platform:** https://github.com/elainees-devs/CodeAlpha_SocialPlatform.git  
 
-Full-stack development (MERN + TypeScript)
+---
 
-Scalable backend architecture
+## 💡 What I Enjoy Working On
 
-Clean, maintainable code
-
-UI/UX with modern tooling
+- Full-stack development (MERN + TypeScript)  
+- Scalable backend architecture and system design  
+- Writing clean, maintainable, and efficient code  
+- Building modern UI/UX with modern tooling  
 
 I’m constantly learning and looking for ways to improve my craft.
-
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express, Django
-- Database: MongoDB, PostgreSQL (Postgres)
-- Developer Tools: Postman, Nodemon, GitHub, react-dropzone
-- Languages: JavaScript, TypeScript
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express, Django  
+- **Database:** MongoDB, PostgreSQL  
+- **Developer Tools:** Postman, Nodemon, GitHub, react-dropzone  
+- **Languages:** JavaScript, TypeScript  
 
 ---
 
 ## 📫 Let's Connect
 
-- https://www.linkedin.com/in/elaine-muhombe/
-- https://github.com/elainees-devs 
-- 📧 [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=emuhombe@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/elaine-muhombe/  
+- GitHub: https://github.com/elainees-devs  
+- Email: [Send me an email](mailto:emuhombe@gmail.com)
 
-**Thanks for visiting! 😊 Let's build something amazing together.**
+Thanks for visiting! 😊 Let's build something amazing together.
 
 ---
 
@@ -44,44 +45,29 @@ I’m constantly learning and looking for ways to improve my craft.
 
 ---
 
-# 💻 Tech Stack Badges
+## 💻 Tech Stack Badges
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=elainees-devs&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elainees-devs&layout=donut-vertical)](https://github.com/elainees-devs/github-readme-stats)
-![trophy](https://github-profile-trophy.vercel.app/?username=elainees-devs&theme=darkhub)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=elainees-devs&theme=darkhub)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=elainees-devs&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
