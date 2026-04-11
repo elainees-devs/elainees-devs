@@ -1,1 +1,1 @@
-- Revise 'About Me' section in README (Elaine Muhombe, 5 seconds ago)
+- Revise tech stack details in README (Elaine Muhombe, 7 seconds ago)
