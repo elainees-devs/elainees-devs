@@ -17,13 +17,13 @@ I’m constantly learning and looking for ways to improve my craft.
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB  
-- **Tools:** Postman, Nodemon, react-dropzone, GitHub  
-- **Languages:** JavaScript  
+Frontend: React, Next.js, TypeScript, Tailwind CSS
+Backend: Node.js, Express, Django
+Database: MongoDB, PostGres
+Developer Tools: Postman, Nodemon, GitHub, react-dropzone
+Languages: JavaScript, TypeScript
 
 ---
 
