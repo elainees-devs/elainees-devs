@@ -3,7 +3,7 @@
 About Me
 
 I’m an aspiring MERN and TypeScript developer currently focused on building real-world projects to sharpen my skills.
-Right now, I’m developing Edusynx, a School SaaS platform aimed at simplifying school management.
+Right now, I’m developing an E-commerce marketplace and social media web apps"
 
 I enjoy working on:
 
