@@ -1,1 +1,1 @@
-- Fix formatting of database section in README (Elaine Muhombe, 7 seconds ago)
+- Remove TypeScript from frontend tech stack (Elaine Muhombe, 7 seconds ago)
