@@ -19,7 +19,7 @@ I’m constantly learning and looking for ways to improve my craft.
 
 ## 🛠️ Tech Stack
 
-- Frontend: React, Next.js, TypeScript, Tailwind CSS
+- Frontend: React, Next.js, Tailwind CSS
 - Backend: Node.js, Express, Django
 - Database: MongoDB, PostgreSQL (Postgres)
 - Developer Tools: Postman, Nodemon, GitHub, react-dropzone
