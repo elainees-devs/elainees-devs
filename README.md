@@ -21,7 +21,7 @@ I’m constantly learning and looking for ways to improve my craft.
 
 - Frontend: React, Next.js, TypeScript, Tailwind CSS
 - Backend: Node.js, Express, Django
--Database: MongoDB, PostgreSQL (Postgres)
+- Database: MongoDB, PostgreSQL (Postgres)
 - Developer Tools: Postman, Nodemon, GitHub, react-dropzone
 - Languages: JavaScript, TypeScript
 
