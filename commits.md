@@ -1,1 +1,1 @@
-- Remove TypeScript from frontend tech stack (Elaine Muhombe, 7 seconds ago)
+- Enhance README formatting and content emphasis (Elaine Muhombe, 7 seconds ago)
