@@ -1,1 +1,1 @@
-- Fix typo in PostgreSQL database name (Elaine Muhombe, 6 seconds ago)
+- Fix formatting of database section in README (Elaine Muhombe, 7 seconds ago)
