@@ -1,9 +1,6 @@
 ## 👋 About Me
 
-About Me
-
-I’m an aspiring MERN and TypeScript developer currently focused on building real-world projects to sharpen my skills.
-Right now, I’m developing an E-commerce marketplace and social media web apps"
+I’m an aspiring MERN stack and TypeScript developer passionate about building scalable and practical web applications. I focus on learning by building real-world projects, and I’m currently working on an E-commerce marketplace and a social media platform to deepen my understanding of full-stack development, API design, and modern backend architecture.
 
 I enjoy working on:
 
