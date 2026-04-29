@@ -1,1 +1,1 @@
-- Add visit count badge to README (Elaine Muhombe, 14 seconds ago)
+- Update trophy display to README (Elaine Muhombe, 9 seconds ago)
