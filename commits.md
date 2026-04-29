@@ -1,1 +1,1 @@
-- Remove dark theme stats image (Elaine Muhombe, 8 seconds ago)
+- Add user GitHub stats section to README (Elaine Muhombe, 8 seconds ago)
