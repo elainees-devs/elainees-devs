@@ -1,1 +1,1 @@
-- Update trophy display to README (Elaine Muhombe, 9 seconds ago)
+- Update trophy link in README.md (Elaine Muhombe, 7 seconds ago)
