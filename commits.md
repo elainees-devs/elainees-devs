@@ -1,1 +1,1 @@
-- Update GitHub stats image link in README (Elaine Muhombe, 9 seconds ago)
+- Remove GitHub stats image with rank (Elaine Muhombe, 8 seconds ago)
