@@ -66,7 +66,7 @@ Thanks for visiting! 😊 Let's build something amazing together.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elainees-devs&layout=donut-vertical)](https://github.com/elainees-devs/github-readme-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=elainees-devs&theme=darkhub&no-frame=true)](https://github-profile-trophy.vercel.app/?username=elainees-devs&theme=darkhub&rank=-C,-B,-A)
+![Trophy](https://github-profile-trophy.vercel.app/?username=elainees-devs&theme=darkhub&no-frame=true&no-bg=true&exclude=Commits)
 
 [![](https://visitcount.itsvg.in/api?id=elainees-devs&icon=0&color=0)](https://visitcount.itsvg.in)
 
