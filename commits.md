@@ -1,1 +1,1 @@
-- Modify trophy link to exclude commits (Elaine Muhombe, 14 seconds ago)
+- Update GitHub stats image and trophy display (Elaine Muhombe, 14 seconds ago)
