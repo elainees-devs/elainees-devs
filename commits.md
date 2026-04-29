@@ -1,1 +1,1 @@
-- Remove visit count badge from README (Elaine Muhombe, 8 seconds ago)
+- Add visit count badge to README (Elaine Muhombe, 14 seconds ago)
