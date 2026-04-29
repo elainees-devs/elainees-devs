@@ -1,1 +1,1 @@
-- Update trophy link in README.md (Elaine Muhombe, 7 seconds ago)
+- Modify trophy link to exclude commits (Elaine Muhombe, 14 seconds ago)
