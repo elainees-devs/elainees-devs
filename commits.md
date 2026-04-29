@@ -1,1 +1,1 @@
-- Add user GitHub stats section to README (Elaine Muhombe, 8 seconds ago)
+- Update GitHub stats image link in README (Elaine Muhombe, 9 seconds ago)
