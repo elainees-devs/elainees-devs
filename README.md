@@ -66,8 +66,6 @@ Thanks for visiting! 😊 Let's build something amazing together.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elainees-devs&layout=donut-vertical)](https://github.com/elainees-devs/github-readme-stats)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=elainees-devs&show_icons=true&theme=dark)
-
 [![](https://visitcount.itsvg.in/api?id=elainees-devs&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
