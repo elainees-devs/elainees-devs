@@ -20,7 +20,7 @@ I’m constantly learning and looking for ways to improve my craft.
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Next.js, Tailwind CSS  
+- **Frontend:** React, HTML5, Tailwind CSS, CSS3, Vanilla JS
 - **Backend:** Node.js, Express, Django  
 - **Database:** MongoDB, PostgreSQL  
 - **Developer Tools:** Postman, Nodemon, GitHub, react-dropzone  
